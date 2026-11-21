@@ -1,0 +1,22 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.db
+*.sqlite3
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+captures/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
